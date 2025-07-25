@@ -1,10 +1,6 @@
 # Gamteni Karabo
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Gamteni%20Karabo&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Mathematics%20%26%20Computer%20Science%20Student&descAlignY=55&descSize=18"/>
-</div>
-
-<div align="center">
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Mathematics+%26+Computer+Science+Student;Aspiring+Software+Engineer;Full+Stack+Developer;Problem+Solver;Tech+Enthusiast&font=JetBrains+Mono&center=true&width=600&height=60&duration=3000&pause=1000&color=667eea&size=22)](https://git.io/typing-svg)
 
@@ -290,10 +286,10 @@ I'm always excited to connect with fellow developers, students, and professional
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://linkedin.com/in/karabogamteni)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://linkedin.com/in/karabo-gamteni)
 [![Portfolio](https://img.shields.io/badge/Portfolio-667eea?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=667eea)](https://gamtenikarabo.netlify.app)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:gamtenikarabo@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2)](https://twitter.com/gamteni_karabo)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2)](https://twitter.com/@gamtenikarabo)
 
 <br>
 
