@@ -1,28 +1,27 @@
 # Gamteni Karabo
 
-<div align="center">
+<div align="left">
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Full+Stack+Developer;Problem+Solver;Tech+Enthusiast&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Aspiring+Software+Engineer;Full+Stack+Developer;Problem+Solver;Tech+Enthusiast&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000)
 
 </div>
 
 ## 🚀 About Me
 
-Passionate **Software Engineer** with expertise in modern web technologies and a strong foundation in full-stack development. I love creating efficient, scalable solutions and am always eager to learn new technologies and tackle challenging problems.
+Passionate **Aspiring Software Engineer** with expertise in modern web technologies and a strong foundation in full-stack development. I love creating efficient, scalable solutions and am always eager to learn new technologies and tackle challenging problems.
 
 - 🔭 Currently working on exciting web applications
 - 🌱 Always learning and staying updated with the latest tech trends
 - 💼 Open to collaboration on innovative projects
-- ⚡ Fun fact: I debug with console.log and I'm not ashamed!
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
 ### **Frontend Development**
-<div align="center">
+<div align="left">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+(https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -64,7 +63,7 @@ Passionate **Software Engineer** with expertise in modern web technologies and a
 </div>
 
 ### **Cloud & DevOps**
-<div align="center">
+<div align="left">
 
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
